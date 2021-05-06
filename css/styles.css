@@ -21,6 +21,7 @@ body {
 
 #header {
     padding: 5%;
+    background-color: #b2dafa;
 }
 
 #header h1 {
@@ -97,7 +98,9 @@ html {
 #section-2 {
     width: 100%;
     padding-left: 5%;
-    padding-top: 12%;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    background-color: #e4f4fd;
 }
 
 #section-2 h2 {
@@ -122,4 +125,20 @@ html {
 
 #section-3 h2 {
     color: #048c8c;
+}
+
+#section-4 {
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 9%;
+    background-color: #e4f4fd;
+    padding-bottom: 20%;
+}
+
+#section-4 h2 {
+    color: #048c8c;
+}
+
+progress {
+    width: 30%;
 }
